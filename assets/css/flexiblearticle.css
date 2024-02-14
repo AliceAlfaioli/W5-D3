@@ -1,0 +1,29 @@
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  align-content: center;
+}
+
+.text {
+  padding: 20px;
+  background-color: white;
+}
+
+h1 {
+  padding: 0.2rem;
+  color: rgb(90, 67, 25);
+}
+
+.title {
+  text-align: center;
+  font-family: Arial;
+}
+
+.paragraph {
+  text-align: justify;
+  font-family: Arial;
+}
